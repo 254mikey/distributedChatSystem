@@ -1,0 +1,17 @@
+┌─────────┐         ┌─────────────────────────────┐         ┌─────────┐
+│ Client 1│◄───────►│  Server Node A (port 5000)  │◄───────►│ Client 3│
+└─────────┘         │  - ClientHandler threads    │         └─────────┘
+                    │  - Peer relay thread        │
+┌─────────┐         │  - Message log (persistence)│         ┌─────────┐
+│ Client 2│◄───────►│                             │◄───────►│ Client 4│
+└─────────┘         └──────────────┬──────────────┘         └─────────┘
+                                   │
+                          PEER_HELLO handshake
+                          (bidirectional relay)
+                                   │
+                    ┌──────────────▼──────────────┐
+                    │  Server Node B (port 5001)  │
+                    │  - ClientHandler threads    │
+                    │  - Peer relay thread        │
+                    │  - Message log (persistence)│
+                    └─────────────────────────────┘
