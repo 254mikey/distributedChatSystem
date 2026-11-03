@@ -1,0 +1,19 @@
+[Tue Nov 03 07:18:38 EAT 2026] Server Server-A started on port 5000
+[Tue Nov 03 07:22:18 EAT 2026] [Sheila] joined the chat.
+[Tue Nov 03 07:22:30 EAT 2026] [Sheila]: hello world
+[Tue Nov 03 07:23:17 EAT 2026] [Sylvia] joined the chat.
+[Tue Nov 03 07:23:30 EAT 2026] [Sylvia]: hello this world
+[Tue Nov 03 07:24:10 EAT 2026] [Sheila]: Hello world
+[Tue Nov 03 07:24:40 EAT 2026] [Sylvia]: Good Morning World
+[Tue Nov 03 07:28:08 EAT 2026] Server Server-A started on port 5000
+[Tue Nov 03 07:30:03 EAT 2026] [Sheila] joined the chat.
+[Tue Nov 03 07:30:22 EAT 2026] [Sylvia] joined the chat.
+[Tue Nov 03 07:30:26 EAT 2026] [Sheila]: hello
+[Tue Nov 03 07:30:45 EAT 2026] [Sylvia]: hello wolrd
+[Tue Nov 03 07:30:57 EAT 2026] [Sylvia]: hello world
+[Tue Nov 03 07:31:03 EAT 2026] [Sheila]: hahahaha
+[Tue Nov 03 07:36:31 EAT 2026] [Sheila] left the chat.
+[Tue Nov 03 07:37:52 EAT 2026] Server Server-A started on port 5000
+[Tue Nov 03 07:38:17 EAT 2026] [Sylvia] joined the chat.
+[Tue Nov 03 07:39:12 EAT 2026] [Sylvia]: hello world
+[Tue Nov 03 07:43:05 EAT 2026] [Sylvia] left the chat.
