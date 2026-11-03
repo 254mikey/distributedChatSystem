@@ -20,7 +20,7 @@ java -version && javac -version
 javac ChatServer.java ChatClient.java
 ```
 ## Run it
-* On different terminals*
+*On different terminals*
 
 ```bash
 cd <your-project-folder>
